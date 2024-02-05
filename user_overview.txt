@@ -1,0 +1,22 @@
+=== USER OVERVIEW: ===
+Total Registered Users:		2
+Total Database Tasks:		2
+
+
+=== INDIVIDUAL USER REPORTS: ===
+USER: Admin
+Tasks in Database:		2 / 2		100.0%
+- Completed Tasks:		0 / 2		0.0%
+- Incomplete Tasks:		2 / 2		100.0%
+- Overdue Tasks:		0 / 2		0.0%
+
+
+USER: Sashlin
+Tasks in Database:		0 / 2		0.0%
+- Completed Tasks:		0 / 0		0%
+- Incomplete Tasks:		0 / 0		0%
+- Overdue Tasks:		0 / 0		0%
+
+
+<<Report Generated on 02 Jul 2023>>
+______________________________________________
